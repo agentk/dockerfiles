@@ -7,7 +7,6 @@ RUN apk update && \
     apk add \
         ca-certificates \
         wget \
-        sendmail \
         perl \
         perl-json \
         perl-io-socket-ssl \
